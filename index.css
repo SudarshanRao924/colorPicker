@@ -1,0 +1,52 @@
+.bg-container{
+    background-color: #fff;
+    height: 100vh;
+}
+.heading{
+    font-family: 'open Sans';
+    font-size: 50px;
+    font-weight: 500;
+}
+.button{
+    font-family: 'open Sans';
+    font-size: 14px;
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+
+}
+.button1 {
+    background-color: #e0e0e0;
+
+}
+
+.button2 {
+    background-color: #6fcf97;
+}
+
+.button3 {
+    background-color: #56ccf2;
+}
+
+.button4 {
+    background-color: #bb6bd9;
+}
+.color-text{
+    background-color: #222222;
+    color: white;
+    font-family: "open Sans";
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 16px;
+}
+.hex-code{
+    color: #49a6e9;
+}
+.color-instraction{
+    font-family: "open Sans";
+    font-size: 20px;
+}
